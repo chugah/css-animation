@@ -1,3 +1,3 @@
 Pure CSS Animation
 
-Simply clone folder and open using a web browser.
+Simply clone folder and open index.html using a web browser.
